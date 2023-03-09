@@ -1,0 +1,96 @@
+2023-03-04 13:42:14.825 [info] Nivel de registro: Info
+2023-03-04 13:42:14.826 [info] La validación encontró GIT en: “git“
+2023-03-04 13:42:14.826 [info] Usando GIT “2.25.1” desde “git”
+2023-03-04 13:42:14.826 [info] > git rev-parse --show-toplevel [124ms]
+2023-03-04 13:42:15.104 [info] > git rev-parse --git-dir --git-common-dir [160ms]
+2023-03-04 13:42:15.160 [info] Open repository: /home/tatiana
+2023-03-04 13:42:15.465 [info] > git rev-parse --show-toplevel [205ms]
+2023-03-04 13:42:15.812 [info] > git config --get commit.template [467ms]
+2023-03-04 13:42:15.831 [info] > git rev-parse --git-dir --git-common-dir [299ms]
+2023-03-04 13:42:15.839 [info] Open repository: /home/tatiana/bigote-1
+2023-03-04 13:42:15.952 [info] No remotes found in the git config file.
+2023-03-04 13:42:16.028 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/mejoras refs/remotes/mejoras [85ms]
+2023-03-04 13:42:16.086 [info] > git rev-parse --show-toplevel [205ms]
+2023-03-04 13:42:16.205 [info] > git rev-parse --show-toplevel [26ms]
+2023-03-04 13:42:16.282 [info] > git config --get commit.template [288ms]
+2023-03-04 13:42:16.361 [info] > git rev-parse --show-toplevel [82ms]
+2023-03-04 13:42:16.448 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [95ms]
+2023-03-04 13:42:16.519 [info] > git rev-parse --show-toplevel [76ms]
+2023-03-04 13:42:16.724 [info] > git status -z -uall [213ms]
+2023-03-04 13:42:16.725 [info] > git check-ignore -v -z --stdin [84ms]
+2023-03-04 13:42:16.740 [info] > git check-ignore -v -z --stdin [32ms]
+2023-03-04 13:42:16.744 [info] > git rev-parse --show-toplevel [152ms]
+2023-03-04 13:42:16.944 [info] > git rev-parse --show-toplevel [162ms]
+2023-03-04 13:42:17.046 [info] > git rev-parse --git-dir --git-common-dir [18ms]
+2023-03-04 13:42:17.062 [info] Open repository: /home/tatiana/proyects
+2023-03-04 13:42:17.203 [info] > git config --get commit.template [278ms]
+2023-03-04 13:42:17.279 [info] > git show --textconv :estilo.css [135ms]
+2023-03-04 13:42:17.346 [info] > git config --get commit.template [74ms]
+2023-03-04 13:42:17.348 [info] > git ls-files --stage -- /home/tatiana/bigote-1/estilo.css [150ms]
+2023-03-04 13:42:17.464 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [126ms]
+2023-03-04 13:42:17.549 [info] No remotes found in the git config file.
+2023-03-04 13:42:17.554 [info] > git cat-file -s 8e48107f0562fb002f7e61ab90594f56754cae09 [105ms]
+2023-03-04 13:42:17.564 [info] > git status -z -uall [1485ms]
+2023-03-04 13:42:17.564 [info] > git status -z -uall [49ms]
+2023-03-04 13:42:17.578 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [29ms]
+2023-03-04 13:42:19.194 [info] > git status -z -uall [1557ms]
+2023-03-04 13:42:19.334 [info] > git check-ignore -v -z --stdin [340ms]
+2023-03-04 13:42:19.338 [info] > git check-ignore -v -z --stdin [310ms]
+2023-03-04 13:42:19.368 [info] > git check-ignore -v -z --stdin [303ms]
+2023-03-04 13:42:19.375 [info] > git config --get commit.template [231ms]
+2023-03-04 13:42:19.403 [info] No remotes found in the git config file.
+2023-03-04 13:42:19.584 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/mejoras refs/remotes/mejoras [14ms]
+2023-03-04 13:42:20.462 [info] > git status -z -uall [754ms]
+2023-03-04 13:42:53.799 [info] No remotes found in the git config file.
+2023-03-04 13:42:53.802 [info] > git config --get commit.template [63ms]
+2023-03-04 13:42:53.806 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/mejoras refs/remotes/mejoras [8ms]
+2023-03-04 13:42:54.249 [info] > git status -z -uall [397ms]
+2023-03-04 13:42:59.546 [info] No remotes found in the git config file.
+2023-03-04 13:42:59.550 [info] > git config --get commit.template [39ms]
+2023-03-04 13:42:59.553 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/mejoras refs/remotes/mejoras [7ms]
+2023-03-04 13:42:59.923 [info] > git status -z -uall [338ms]
+2023-03-04 13:43:05.204 [info] No remotes found in the git config file.
+2023-03-04 13:43:05.209 [info] > git config --get commit.template [106ms]
+2023-03-04 13:43:05.213 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/mejoras refs/remotes/mejoras [10ms]
+2023-03-04 13:43:05.665 [info] > git status -z -uall [401ms]
+2023-03-04 13:43:07.033 [info] > git ls-files --stage -- /home/tatiana/bigote-1/estilo.css [9ms]
+2023-03-04 13:43:07.095 [info] > git cat-file -s 8e48107f0562fb002f7e61ab90594f56754cae09 [12ms]
+2023-03-04 13:43:07.164 [info] > git show --textconv :estilo.css [17ms]
+2023-03-04 13:43:10.927 [info] No remotes found in the git config file.
+2023-03-04 13:43:10.929 [info] > git config --get commit.template [43ms]
+2023-03-04 13:43:10.934 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/mejoras refs/remotes/mejoras [8ms]
+2023-03-04 13:43:11.292 [info] > git status -z -uall [320ms]
+2023-03-04 13:43:16.567 [info] No remotes found in the git config file.
+2023-03-04 13:43:16.571 [info] > git config --get commit.template [66ms]
+2023-03-04 13:43:16.576 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/mejoras refs/remotes/mejoras [10ms]
+2023-03-04 13:43:17.015 [info] > git status -z -uall [379ms]
+2023-03-04 13:43:19.111 [info] > git check-ignore -v -z --stdin [15ms]
+2023-03-04 13:43:22.272 [info] No remotes found in the git config file.
+2023-03-04 13:43:22.277 [info] > git config --get commit.template [48ms]
+2023-03-04 13:43:22.279 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/mejoras refs/remotes/mejoras [8ms]
+2023-03-04 13:43:22.777 [info] > git status -z -uall [461ms]
+2023-03-04 13:43:25.577 [info] No remotes found in the git config file.
+2023-03-04 13:43:25.579 [info] > git config --get commit.template [59ms]
+2023-03-04 13:43:25.586 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2023-03-04 13:43:25.666 [info] > git status -z -uall [42ms]
+2023-03-04 13:43:28.587 [info] > git show --textconv :index.html [146ms]
+2023-03-04 13:43:28.590 [info] > git config --get commit.template [283ms]
+2023-03-04 13:43:28.592 [info] > git ls-files --stage -- /home/tatiana/bigote-1/index.html [19ms]
+2023-03-04 13:43:28.894 [info] No remotes found in the git config file.
+2023-03-04 13:43:28.951 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/mejoras refs/remotes/mejoras [58ms]
+2023-03-04 13:43:29.027 [info] > git cat-file -s 3b5c21937041a27308cc9418b645cf72189eddae [278ms]
+2023-03-04 13:43:29.811 [info] > git status -z -uall [791ms]
+2023-03-04 13:43:35.137 [info] > git config --get commit.template [54ms]
+2023-03-04 13:43:35.137 [info] No remotes found in the git config file.
+2023-03-04 13:43:35.142 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/mejoras refs/remotes/mejoras [10ms]
+2023-03-04 13:43:35.576 [info] > git status -z -uall [384ms]
+2023-03-04 13:43:37.011 [info] > git ls-files --stage -- /home/tatiana/bigote-1/estilo.css [55ms]
+2023-03-04 13:43:37.061 [info] > git ls-files --stage -- /home/tatiana/bigote-1/index.html [57ms]
+2023-03-04 13:43:37.110 [info] > git cat-file -s 8e48107f0562fb002f7e61ab90594f56754cae09 [52ms]
+2023-03-04 13:43:37.116 [info] > git cat-file -s 3b5c21937041a27308cc9418b645cf72189eddae [10ms]
+2023-03-04 13:43:37.221 [info] > git show --textconv :estilo.css [56ms]
+2023-03-04 13:43:37.230 [info] > git show --textconv :index.html [13ms]
+2023-03-04 13:43:40.804 [info] No remotes found in the git config file.
+2023-03-04 13:43:40.807 [info] > git config --get commit.template [46ms]
+2023-03-04 13:43:40.811 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/mejoras refs/remotes/mejoras [7ms]
+2023-03-04 13:43:41.181 [info] > git status -z -uall [325ms]

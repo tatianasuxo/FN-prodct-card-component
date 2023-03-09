@@ -1,0 +1,35 @@
+2023-03-04 12:23:32.307 [info] Nivel de registro: Info
+2023-03-04 12:23:32.307 [info] La validación encontró GIT en: “git“
+2023-03-04 12:23:32.307 [info] Usando GIT “2.25.1” desde “git”
+2023-03-04 12:23:32.308 [info] > git rev-parse --show-toplevel [39ms]
+2023-03-04 12:23:32.308 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-04 12:23:32.313 [info] > git rev-parse --show-toplevel [29ms]
+2023-03-04 12:23:32.313 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-04 12:23:32.511 [info] > git rev-parse --show-toplevel [171ms]
+2023-03-04 12:23:32.511 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-04 12:23:32.570 [info] > git rev-parse --show-toplevel [9ms]
+2023-03-04 12:23:32.570 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-04 12:23:32.615 [info] > git rev-parse --show-toplevel [18ms]
+2023-03-04 12:23:32.616 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-03-04 12:23:32.696 [info] > git rev-parse --show-toplevel [52ms]
+2023-03-04 12:23:32.889 [info] > git rev-parse --git-dir --git-common-dir [149ms]
+2023-03-04 12:23:32.912 [info] Open repository: /home/tatiana/Bigote
+2023-03-04 12:23:33.094 [info] > git config --get commit.template [72ms]
+2023-03-04 12:23:33.096 [info] > git rev-parse --show-toplevel [131ms]
+2023-03-04 12:23:33.169 [info] > git rev-parse --git-dir --git-common-dir [38ms]
+2023-03-04 12:23:33.176 [info] Open repository: /home/tatiana/proyects
+2023-03-04 12:23:33.228 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/my-branch refs/remotes/my-branch [64ms]
+2023-03-04 12:23:33.274 [info] > git status -z -uall [16ms]
+2023-03-04 12:23:33.275 [info] > git config --get commit.template [49ms]
+2023-03-04 12:23:33.334 [info] No remotes found in the git config file.
+2023-03-04 12:23:33.399 [info] > git config --get commit.template [21ms]
+2023-03-04 12:23:33.399 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [66ms]
+2023-03-04 12:23:33.561 [info] > git status -z -uall [91ms]
+2023-03-04 12:23:33.618 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/my-branch refs/remotes/my-branch [68ms]
+2023-03-04 12:23:33.656 [info] > git config --get commit.template [46ms]
+2023-03-04 12:23:33.658 [info] No remotes found in the git config file.
+2023-03-04 12:23:33.695 [info] > git status -z -uall [43ms]
+2023-03-04 12:23:33.702 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [14ms]
+2023-03-04 12:23:33.855 [info] > git status -z -uall [117ms]
+2023-03-04 12:23:33.855 [info] > git check-ignore -v -z --stdin [44ms]
+2023-03-04 12:23:33.862 [info] > git check-ignore -v -z --stdin [12ms]

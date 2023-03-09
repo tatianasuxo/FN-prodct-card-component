@@ -1,0 +1,12 @@
+2023-03-04 13:10:29.306 [info] 
+
+
+
+
+2023-03-04 13:10:29.518 [info] Extension host agent started.
+2023-03-04 13:10:29.838 [info] [127.0.0.1][01000718][ManagementConnection] New connection established.
+2023-03-04 13:10:29.866 [info] [127.0.0.1][6a0d41f5][ExtensionHostConnection] New connection established.
+2023-03-04 13:10:30.640 [info] [127.0.0.1][6a0d41f5][ExtensionHostConnection] <75> Launched Extension Host Process.
+2023-03-04 13:34:38.930 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2023-03-04 13:35:05.693 [info] [127.0.0.1][01000718][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-03-04 13:35:05.908 [info] [127.0.0.1][6a0d41f5][ExtensionHostConnection] <75> Extension Host Process exited with code: 0, signal: null.

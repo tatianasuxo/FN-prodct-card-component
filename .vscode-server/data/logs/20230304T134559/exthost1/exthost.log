@@ -1,0 +1,291 @@
+2023-03-04 13:46:04.239 [info] Extension host with pid 75 started
+2023-03-04 13:46:04.288 [info] Lock '/home/tatiana/.vscode-server/data/User/workspaceStorage/b2d90983c8e7d13d8d3ebebc1782fcd4/vscode.lock': Lock acquired.
+2023-03-04 13:46:04.632 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-03-04 13:46:04.639 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-03-04 13:46:04.642 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-03-04 13:46:05.548 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-03-04 13:46:05.549 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-03-04 13:46:06.550 [info] Eager extensions activated
+2023-03-04 13:46:06.552 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-03-04 13:46:06.553 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-03-04 13:46:06.555 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+2023-03-04 13:46:06.557 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-03-04 13:46:08.216 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.217 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.217 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.217 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.217 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.217 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.217 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.217 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.217 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.217 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.217 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.217 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.217 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.217 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.217 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.217 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.217 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.218 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.218 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.218 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.218 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.218 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.218 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.218 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.218 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.218 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.218 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.218 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.218 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.218 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.218 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.218 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.218 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.218 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.218 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.218 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.219 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.219 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.219 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.219 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.219 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.219 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.219 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.219 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.219 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.219 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.219 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.219 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.219 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.219 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:08.219 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:09.177 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7008
+2023-03-04 13:46:10.599 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:10.599 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:10.600 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:10.600 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:10.601 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:10.601 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:10.603 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:10.603 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:10.604 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:10.605 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:10.606 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:10.606 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:10.606 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:10.607 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:10.607 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:10.607 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:10.608 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:10.608 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:11.476 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-03-04 13:46:12.111 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7012
+2023-03-04 13:46:14.540 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:14.541 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:14.541 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:14.541 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:14.541 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:14.541 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:14.541 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:14.541 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:14.541 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:14.541 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:14.541 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:14.541 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:14.541 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:14.541 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:14.541 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:14.541 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:15.543 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:15.544 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:15.544 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:15.545 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:15.546 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:15.547 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:15.548 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:15.548 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:15.548 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:15.549 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:15.549 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:15.550 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:15.550 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:15.551 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:15.551 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:15.552 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/bigote-1/estilo.css' is in submodule 'bigote-1'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:20.114 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7014
+2023-03-04 13:46:25.845 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7014
+2023-03-04 13:46:31.446 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7004
+2023-03-04 13:46:37.040 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7004
+2023-03-04 13:46:42.621 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7004
+2023-03-04 13:46:48.346 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7004
+2023-03-04 13:46:49.314 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/proyects/git-ejemplo/MI primer bigote' is in submodule 'git-ejemplo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:49.314 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/proyects/git-ejemplo/MI primer bigote' is in submodule 'git-ejemplo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:50.317 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/proyects/git-ejemplo/MI primer bigote' is in submodule 'git-ejemplo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:50.318 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/proyects/git-ejemplo/MI primer bigote' is in submodule 'git-ejemplo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:46:54.049 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7004
+2023-03-04 13:46:59.734 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7004
+2023-03-04 13:47:05.429 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7004
+2023-03-04 13:47:11.159 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/proyects/git-ejemplo/MI primer bigote/clase' is in submodule 'git-ejemplo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:47:11.159 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/proyects/git-ejemplo/MI primer bigote/clase' is in submodule 'git-ejemplo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:47:11.159 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/proyects/git-ejemplo/MI primer bigote/clase' is in submodule 'git-ejemplo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:47:11.317 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7004
+2023-03-04 13:47:12.220 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/proyects/git-ejemplo/MI primer bigote/clase' is in submodule 'git-ejemplo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:47:12.220 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/proyects/git-ejemplo/MI primer bigote/clase' is in submodule 'git-ejemplo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:47:12.221 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/proyects/git-ejemplo/MI primer bigote/clase' is in submodule 'git-ejemplo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:47:16.814 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/proyects/git-ejemplo/Tarea 1/estilo.css' is in submodule 'git-ejemplo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:47:16.814 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/proyects/git-ejemplo/Tarea 1/estilo.css' is in submodule 'git-ejemplo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:47:16.936 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7004
+2023-03-04 13:47:17.846 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/proyects/git-ejemplo/Tarea 1/estilo.css' is in submodule 'git-ejemplo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:47:17.846 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/proyects/git-ejemplo/Tarea 1/estilo.css' is in submodule 'git-ejemplo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:47:22.504 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7004
+2023-03-04 13:47:28.078 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7004
+2023-03-04 13:48:47.098 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7004
+2023-03-04 13:49:00.243 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7004
+2023-03-04 13:49:06.174 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7004
+2023-03-04 13:49:11.949 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7004
+2023-03-04 13:49:17.554 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7004
+2023-03-04 13:49:19.361 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-03-04 13:49:49.804 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7005
+2023-03-04 13:49:55.525 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7005
+2023-03-04 13:50:01.156 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7005
+2023-03-04 13:50:07.119 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7006
+2023-03-04 13:50:13.151 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7006
+2023-03-04 13:50:36.185 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7006
+2023-03-04 13:50:41.810 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7006
+2023-03-04 13:50:51.814 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7006
+2023-03-04 13:51:58.911 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7006
+2023-03-04 13:52:05.338 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7006
+2023-03-04 13:52:11.222 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7006
+2023-03-04 13:52:17.203 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7006
+2023-03-04 13:52:22.779 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7006
+2023-03-04 13:52:28.361 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7006
+2023-03-04 13:52:33.960 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7006
+2023-03-04 13:52:39.603 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7006
+2023-03-04 13:52:45.137 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7006
+2023-03-04 13:53:11.897 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7006
+2023-03-04 13:53:17.477 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7006
+2023-03-04 13:53:23.044 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7006
+2023-03-04 13:53:29.080 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7006
+2023-03-04 13:53:34.745 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7006
+2023-03-04 13:53:55.831 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7007
+2023-03-04 13:54:05.577 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7007
+2023-03-04 13:54:11.174 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7007
+2023-03-04 13:54:16.770 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7007
+2023-03-04 13:54:22.712 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7007
+2023-03-04 13:54:24.895 [info] Extension host terminating: received terminate message from renderer
+2023-03-04 13:54:24.896 [info] Lock '/home/tatiana/.vscode-server/data/User/workspaceStorage/b2d90983c8e7d13d8d3ebebc1782fcd4/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-03-04 13:54:24.984 [error] Canceled: Canceled
+	at new a (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:88793)
+	at c.O (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:106:11260)
+	at Proxy.V.<computed>.Q.charCodeAt.V.<computed> (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:106:8550)
+	at l.g (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:108198)
+	at l.executeCommand (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:107574)
+	at O.registerCommand.description (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:106867)
+	at l.h (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:108784)
+	at l.g (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:107674)
+	at l.executeCommand (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:107574)
+	at Object.executeCommand (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:117:30781)
+	at D (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1467127)
+	at f.invoke (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at Object.m [as dispose] (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1481856)
+	at /home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1485923
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1485909)
+	at D.<anonymous> (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:94:12431)
+	at D.dispose (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:94:12566)
+	at D.<anonymous> (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1469257)
+	at D.dispose (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:94:12566)
+	at k (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:10:12074)
+	at f.X (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:11284)
+	at /home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:9088
+	at Array.map (<anonymous>)
+	at f.Q (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:9075)
+	at f.terminate (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:9347)
+	at u.terminate (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:122:18592)
+	at /home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:122:16502
+	at f.invoke (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at t.E (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:18973)
+	at /home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:16961
+	at f.invoke (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at u.acceptChunk (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:12638)
+	at /home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:11925
+	at f.invoke (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at h.u (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:28911)
+	at h.acceptFrame (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:28717)
+	at f.l (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:27304)
+	at /home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:24627
+	at Socket.t (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:22461)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Socket.Readable.push (node:internal/streams/readable:228:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-03-04 13:54:24.986 [error] Canceled: Canceled
+	at new a (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:88793)
+	at c.O (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:106:11260)
+	at Proxy.V.<computed>.Q.charCodeAt.V.<computed> (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:106:8550)
+	at l.g (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:108198)
+	at l.executeCommand (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:107574)
+	at O.registerCommand.description (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:106867)
+	at l.h (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:108784)
+	at l.g (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:107674)
+	at l.executeCommand (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:107574)
+	at Object.executeCommand (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:117:30781)
+	at D (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1467127)
+	at f.invoke (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at Object.m [as dispose] (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1481856)
+	at /home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1485923
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1485909)
+	at D.<anonymous> (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:94:12431)
+	at D.dispose (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:94:12566)
+	at D.<anonymous> (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1469257)
+	at D.dispose (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:94:12566)
+	at k (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:10:12074)
+	at f.X (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:11284)
+	at /home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:9088
+	at Array.map (<anonymous>)
+	at f.Q (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:9075)
+	at f.terminate (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:9347)
+	at u.terminate (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:122:18592)
+	at /home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:122:16502
+	at f.invoke (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at t.E (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:18973)
+	at /home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:16961
+	at f.invoke (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at u.acceptChunk (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:12638)
+	at /home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:11925
+	at f.invoke (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at h.u (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:28911)
+	at h.acceptFrame (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:28717)
+	at f.l (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:27304)
+	at /home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:24627
+	at Socket.t (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:22461)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Socket.Readable.push (node:internal/streams/readable:228:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-03-04 13:54:25.029 [info] Extension host with pid 75 exiting with code 0

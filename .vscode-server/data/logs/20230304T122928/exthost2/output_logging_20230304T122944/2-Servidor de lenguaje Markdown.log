@@ -1,0 +1,11 @@
+l10n: Configured to vscode-local:/c%3A/Users/tatiana/.vscode/extensions/ms-ceintl.vscode-language-pack-es-1.76.2023030109/translations/extensions/vscode.markdown-language-features.i18n.json
+[Trace 16:42:43.522] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/tatiana/product-preview-card-component-main/style-guide.md
+[Trace 16:42:43.525] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/tatiana/product-preview-card-component-main/style-guide.md
+[Trace 16:42:43.532] Server: connection.languages.diagnostics.on: file:///home/tatiana/product-preview-card-component-main/style-guide.md
+[Trace 16:42:43.538] Server: connection.languages.diagnostics.on: file:///home/tatiana/product-preview-card-component-main/style-guide.md
+[Trace 16:42:43.557] DocumentSymbolProvider: provideDocumentSymbols — file:///home/tatiana/product-preview-card-component-main/style-guide.md 1
+[Debug 16:42:43.558] LinkProvider: compute - file:///home/tatiana/product-preview-card-component-main/style-guide.md
+[Debug 16:42:43.831] TableOfContentsProvider: create - file:///home/tatiana/product-preview-card-component-main/style-guide.md
+[Debug 16:42:43.832] MdFoldingProvider: provideFoldingRanges — file:///home/tatiana/product-preview-card-component-main/style-guide.md 1
+[Trace 16:43:00.771] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/tatiana/product-preview-card-component-main/style-guide.md
+[Trace 16:43:00.772] VsCodeClientWorkspace: deleteDocument: file:///home/tatiana/product-preview-card-component-main/style-guide.md

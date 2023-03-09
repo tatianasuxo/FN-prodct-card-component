@@ -1,0 +1,37 @@
+l10n: Configured to vscode-local:/c%3A/Users/tatiana/.vscode/extensions/ms-ceintl.vscode-language-pack-es-1.76.2023030809/translations/extensions/vscode.markdown-language-features.i18n.json
+[Trace 14:33:50.828] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/tatiana/product-preview-card-component-main/style-guide.md
+[Trace 14:33:50.831] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/tatiana/product-preview-card-component-main/style-guide.md
+[Trace 14:33:50.836] Server: connection.languages.diagnostics.on: file:///home/tatiana/product-preview-card-component-main/style-guide.md
+[Trace 14:33:50.845] DocumentSymbolProvider: provideDocumentSymbols — file:///home/tatiana/product-preview-card-component-main/style-guide.md 1
+[Debug 14:33:50.847] LinkProvider: compute - file:///home/tatiana/product-preview-card-component-main/style-guide.md
+[Trace 14:33:50.848] Server: connection.languages.diagnostics.on: file:///home/tatiana/product-preview-card-component-main/style-guide.md
+[Debug 14:33:51.121] TableOfContentsProvider: create - file:///home/tatiana/product-preview-card-component-main/style-guide.md
+[Debug 14:33:51.192] MdFoldingProvider: provideFoldingRanges — file:///home/tatiana/product-preview-card-component-main/style-guide.md 1
+[Trace 14:33:53.551] Server: connection.languages.diagnostics.on: file:///home/tatiana/product-preview-card-component-main/style-guide.md
+[Trace 14:34:31.764] Server: connection.languages.diagnostics.on: file:///home/tatiana/product-preview-card-component-main/style-guide.md
+[Debug 14:34:32.052] MdFoldingProvider: provideFoldingRanges — file:///home/tatiana/product-preview-card-component-main/style-guide.md 1
+[Trace 14:34:50.971] Server: connection.languages.diagnostics.on: file:///home/tatiana/product-preview-card-component-main/style-guide.md
+[Trace 14:36:55.741] Server: connection.languages.diagnostics.on: file:///home/tatiana/product-preview-card-component-main/style-guide.md
+[Debug 14:36:55.844] MdFoldingProvider: provideFoldingRanges — file:///home/tatiana/product-preview-card-component-main/style-guide.md 1
+[Trace 14:37:15.995] Server: connection.languages.diagnostics.on: file:///home/tatiana/product-preview-card-component-main/style-guide.md
+[Trace 14:38:16.910] Server: connection.languages.diagnostics.on: file:///home/tatiana/product-preview-card-component-main/style-guide.md
+[Debug 14:38:17.030] MdFoldingProvider: provideFoldingRanges — file:///home/tatiana/product-preview-card-component-main/style-guide.md 1
+[Trace 14:38:22.325] Server: connection.languages.diagnostics.on: file:///home/tatiana/product-preview-card-component-main/style-guide.md
+[Trace 14:38:58.397] Server: connection.languages.diagnostics.on: file:///home/tatiana/product-preview-card-component-main/style-guide.md
+[Debug 14:38:58.525] MdFoldingProvider: provideFoldingRanges — file:///home/tatiana/product-preview-card-component-main/style-guide.md 1
+[Trace 14:39:18.509] Server: connection.languages.diagnostics.on: file:///home/tatiana/product-preview-card-component-main/style-guide.md
+[Trace 14:40:20.845] Server: connection.languages.diagnostics.on: file:///home/tatiana/product-preview-card-component-main/style-guide.md
+[Debug 14:40:20.964] MdFoldingProvider: provideFoldingRanges — file:///home/tatiana/product-preview-card-component-main/style-guide.md 1
+[Trace 14:41:12.694] Server: connection.languages.diagnostics.on: file:///home/tatiana/product-preview-card-component-main/style-guide.md
+[Trace 14:47:10.958] Server: connection.languages.diagnostics.on: file:///home/tatiana/product-preview-card-component-main/style-guide.md
+[Debug 14:47:11.057] MdFoldingProvider: provideFoldingRanges — file:///home/tatiana/product-preview-card-component-main/style-guide.md 1
+[Trace 14:47:15.480] Server: connection.languages.diagnostics.on: file:///home/tatiana/product-preview-card-component-main/style-guide.md
+[Trace 14:47:16.917] Server: connection.languages.diagnostics.on: file:///home/tatiana/product-preview-card-component-main/style-guide.md
+[Debug 14:47:17.034] MdFoldingProvider: provideFoldingRanges — file:///home/tatiana/product-preview-card-component-main/style-guide.md 1
+[Trace 14:47:18.573] Server: connection.languages.diagnostics.on: file:///home/tatiana/product-preview-card-component-main/style-guide.md
+[Trace 14:56:23.205] Server: connection.languages.diagnostics.on: file:///home/tatiana/product-preview-card-component-main/style-guide.md
+[Debug 14:56:23.331] MdFoldingProvider: provideFoldingRanges — file:///home/tatiana/product-preview-card-component-main/style-guide.md 1
+[Trace 14:56:24.975] Server: connection.languages.diagnostics.on: file:///home/tatiana/product-preview-card-component-main/style-guide.md
+[Trace 15:20:03.777] Server: connection.languages.diagnostics.on: file:///home/tatiana/product-preview-card-component-main/style-guide.md
+[Debug 15:20:03.893] MdFoldingProvider: provideFoldingRanges — file:///home/tatiana/product-preview-card-component-main/style-guide.md 1
+[Trace 15:20:05.161] Server: connection.languages.diagnostics.on: file:///home/tatiana/product-preview-card-component-main/style-guide.md

@@ -1,0 +1,308 @@
+2023-03-04 13:10:33.444 [info] Extension host with pid 75 started
+2023-03-04 13:10:33.569 [info] Lock '/home/tatiana/.vscode-server/data/User/workspaceStorage/b2d90983c8e7d13d8d3ebebc1782fcd4/vscode.lock': Lock acquired.
+2023-03-04 13:10:33.955 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-03-04 13:10:33.958 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-03-04 13:10:33.960 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-03-04 13:10:34.659 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-03-04 13:10:34.660 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-03-04 13:10:35.542 [info] Eager extensions activated
+2023-03-04 13:10:35.543 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-03-04 13:10:35.545 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-03-04 13:10:35.547 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+2023-03-04 13:10:35.549 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-03-04 13:10:37.188 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-03-04 13:18:53.001 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-03-04 13:23:17.156 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6998
+2023-03-04 13:23:20.786 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6998
+2023-03-04 13:23:32.742 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6998
+2023-03-04 13:23:38.353 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6998
+2023-03-04 13:23:44.136 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6998
+2023-03-04 13:23:56.232 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6998
+2023-03-04 13:24:01.986 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6998
+2023-03-04 13:24:10.231 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6998
+2023-03-04 13:24:15.932 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6998
+2023-03-04 13:24:21.605 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6998
+2023-03-04 13:24:27.317 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6998
+2023-03-04 13:24:33.128 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6998
+2023-03-04 13:24:38.922 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6998
+2023-03-04 13:24:44.631 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6998
+2023-03-04 13:24:50.376 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6998
+2023-03-04 13:25:01.518 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6998
+2023-03-04 13:25:07.390 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6998
+2023-03-04 13:25:13.200 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6998
+2023-03-04 13:25:19.138 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6998
+2023-03-04 13:25:36.337 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:25:42.126 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:25:47.736 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:25:53.357 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:25:58.964 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:26:04.597 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:26:10.266 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:26:15.899 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:26:21.547 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:26:27.153 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:26:32.761 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:26:38.383 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:26:44.071 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:26:49.689 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:26:59.243 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:27:05.188 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:27:10.810 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:27:16.416 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:27:22.972 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:27:30.550 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:27:36.155 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:27:41.820 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:27:47.426 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:27:53.018 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:27:58.689 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:28:04.297 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:28:09.898 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:28:15.520 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:28:21.366 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:28:27.011 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:28:32.656 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:28:38.349 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:28:43.991 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:28:52.631 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:28:58.324 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:29:16.061 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:29:21.939 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:29:27.676 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:29:33.319 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:29:38.956 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:30:01.217 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:30:06.837 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:30:12.462 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:30:18.073 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:30:24.050 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:30:30.522 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:30:36.156 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:30:41.768 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:30:47.473 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:30:53.149 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:30:58.766 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:31:04.362 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:31:10.004 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:31:16.570 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:31:23.393 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:34:14.224 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:34:19.911 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:34:25.640 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:34:31.305 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:34:37.062 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7001
+2023-03-04 13:34:41.210 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:41.210 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:41.210 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:41.210 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:41.210 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:41.210 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:41.210 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:41.210 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:41.210 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:41.210 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:41.210 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:41.210 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:41.210 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:41.210 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:41.210 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:41.210 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:41.210 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:41.210 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:41.211 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:41.211 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:42.215 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:42.216 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:42.217 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:42.218 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:42.218 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:42.219 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:42.220 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:42.220 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:42.221 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:42.223 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:42.223 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:42.225 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:42.226 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:42.228 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:42.229 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:42.230 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:42.232 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:42.232 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:42.233 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:42.234 [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/tatiana/Bigote/Imagenes.pdf' is in submodule 'Bigote'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+2023-03-04 13:34:47.023 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7002
+2023-03-04 13:34:52.793 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7002
+2023-03-04 13:34:58.423 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7002
+2023-03-04 13:35:04.000 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7002
+2023-03-04 13:35:05.692 [info] Extension host terminating: received terminate message from renderer
+2023-03-04 13:35:05.693 [info] Lock '/home/tatiana/.vscode-server/data/User/workspaceStorage/b2d90983c8e7d13d8d3ebebc1782fcd4/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-03-04 13:35:05.746 [error] Canceled: Canceled
+	at new a (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:88793)
+	at c.O (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:106:11260)
+	at Proxy.V.<computed>.Q.charCodeAt.V.<computed> (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:106:8550)
+	at l.g (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:108198)
+	at l.executeCommand (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:107574)
+	at O.registerCommand.description (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:106867)
+	at l.h (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:108784)
+	at l.g (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:107674)
+	at l.executeCommand (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:107574)
+	at Object.executeCommand (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:117:30781)
+	at D (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1467127)
+	at f.invoke (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at Object.m [as dispose] (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1481856)
+	at /home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1485923
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1485909)
+	at D.<anonymous> (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:94:12431)
+	at D.dispose (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:94:12566)
+	at D.<anonymous> (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1469257)
+	at D.dispose (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:94:12566)
+	at k (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:10:12074)
+	at f.X (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:11284)
+	at /home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:9088
+	at Array.map (<anonymous>)
+	at f.Q (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:9075)
+	at f.terminate (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:9347)
+	at u.terminate (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:122:18592)
+	at /home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:122:16502
+	at f.invoke (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at t.E (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:18973)
+	at /home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:16961
+	at f.invoke (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at u.acceptChunk (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:12638)
+	at /home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:11925
+	at f.invoke (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at h.u (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:28911)
+	at h.acceptFrame (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:28717)
+	at f.l (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:27304)
+	at /home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:24627
+	at Socket.t (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:22461)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Socket.Readable.push (node:internal/streams/readable:228:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-03-04 13:35:05.746 [error] Canceled: Canceled
+	at new a (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:88793)
+	at c.O (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:106:11260)
+	at Proxy.V.<computed>.Q.charCodeAt.V.<computed> (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:106:8550)
+	at l.g (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:108198)
+	at l.executeCommand (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:107574)
+	at O.registerCommand.description (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:106867)
+	at l.h (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:108784)
+	at l.g (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:107674)
+	at l.executeCommand (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:107574)
+	at Object.executeCommand (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:117:30781)
+	at D (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1467127)
+	at f.invoke (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at Object.m [as dispose] (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1481856)
+	at /home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1485923
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1485909)
+	at D.<anonymous> (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:94:12431)
+	at D.dispose (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:94:12566)
+	at D.<anonymous> (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1469257)
+	at D.dispose (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:94:12566)
+	at k (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:10:12074)
+	at f.X (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:11284)
+	at /home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:9088
+	at Array.map (<anonymous>)
+	at f.Q (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:9075)
+	at f.terminate (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:9347)
+	at u.terminate (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:122:18592)
+	at /home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:122:16502
+	at f.invoke (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at t.E (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:18973)
+	at /home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:16961
+	at f.invoke (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at u.acceptChunk (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:12638)
+	at /home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:11925
+	at f.invoke (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at h.u (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:28911)
+	at h.acceptFrame (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:28717)
+	at f.l (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:27304)
+	at /home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:24627
+	at Socket.t (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:22461)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Socket.Readable.push (node:internal/streams/readable:228:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-03-04 13:35:05.746 [error] Canceled: Canceled
+	at new a (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:88793)
+	at c.O (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:106:11260)
+	at Proxy.V.<computed>.Q.charCodeAt.V.<computed> (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:106:8550)
+	at l.g (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:108198)
+	at l.executeCommand (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:107574)
+	at O.registerCommand.description (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:106867)
+	at l.h (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:108784)
+	at l.g (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:107674)
+	at l.executeCommand (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:96:107574)
+	at Object.executeCommand (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:117:30781)
+	at D (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1467127)
+	at f.invoke (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at Object.m [as dispose] (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1481856)
+	at /home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1485923
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1485909)
+	at D.<anonymous> (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:94:12431)
+	at D.dispose (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:94:12566)
+	at D.<anonymous> (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/extensions/git/dist/main.js:2:1469257)
+	at D.dispose (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:94:12566)
+	at k (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:10:12074)
+	at f.X (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:11284)
+	at /home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:9088
+	at Array.map (<anonymous>)
+	at f.Q (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:9075)
+	at f.terminate (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:108:9347)
+	at u.terminate (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+	at p (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:122:18592)
+	at /home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:122:16502
+	at f.invoke (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at p.fire (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:14907)
+	at t.E (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:18973)
+	at /home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:16961
+	at f.invoke (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at u.acceptChunk (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:12638)
+	at /home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:11925
+	at f.invoke (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at g.deliver (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:2066)
+	at h.fire (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:63:1704)
+	at h.u (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:28911)
+	at h.acceptFrame (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:28717)
+	at f.l (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:27304)
+	at /home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:24627
+	at Socket.t (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/workbench/api/node/extensionHostProcess.js:72:22461)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Socket.Readable.push (node:internal/streams/readable:228:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-03-04 13:35:05.762 [info] Extension host with pid 75 exiting with code 0

@@ -1,0 +1,35 @@
+2023-03-09 10:02:12.380 [info] 
+
+
+
+
+2023-03-09 10:02:12.578 [info] Extension host agent started.
+2023-03-09 10:02:13.093 [info] [127.0.0.1][dd083e59][ManagementConnection] New connection established.
+2023-03-09 10:02:13.190 [info] [127.0.0.1][6dd2a629][ExtensionHostConnection] New connection established.
+2023-03-09 10:02:18.488 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-09 10:02:22.417 [error] ptyHost was unable to resolve shell environment {}
+2023-03-09 10:02:22.422 [error] RequestService#request (node) resolving shell environment failed {}
+2023-03-09 10:02:22.425 [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed {}
+2023-03-09 10:02:22.426 [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed {}
+2023-03-09 10:02:22.495 [info] [127.0.0.1][6dd2a629][ExtensionHostConnection] <112> Launched Extension Host Process.
+2023-03-09 10:02:27.541 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2023-03-09 10:02:28.605 [info] Installing extension: ms-ceintl.vscode-language-pack-es
+2023-03-09 10:02:38.558 [info] Extension signature verification: ms-ceintl.vscode-language-pack-es. Verification status: Verified.
+2023-03-09 10:02:38.940 [info] Extracted extension to /home/tatiana/.vscode-server/extensions/.12037bf9-fa6f-4d3f-84e7-4d1f6229e634: ms-ceintl.vscode-language-pack-es
+2023-03-09 10:02:39.190 [info] Rename failed because of EACCES: permission denied, rename '/home/tatiana/.vscode-server/extensions/.12037bf9-fa6f-4d3f-84e7-4d1f6229e634' -> '/home/tatiana/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.76.2023030809'. Deleted from extracted location /home/tatiana/.vscode-server/extensions/.12037bf9-fa6f-4d3f-84e7-4d1f6229e634
+2023-03-09 10:02:39.193 [error] Error while installing the extension: ms-ceintl.vscode-language-pack-es
+2023-03-09 10:02:39.195 [error] Failed to install extension. ms-ceintl.vscode-language-pack-es
+2023-03-09 10:02:39.195 [error] EACCES: EACCES: permission denied, rename '/home/tatiana/.vscode-server/extensions/.12037bf9-fa6f-4d3f-84e7-4d1f6229e634' -> '/home/tatiana/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.76.2023030809'
+    at V.v (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:15764)
+    at async V.extractUserExtension (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:12806)
+    at async te.u (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:19332)
+    at async te.x (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:20922)
+    at async te.h (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:18978)
+2023-03-09 10:02:40.200 [error] EACCES: EACCES: permission denied, rename '/home/tatiana/.vscode-server/extensions/.12037bf9-fa6f-4d3f-84e7-4d1f6229e634' -> '/home/tatiana/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.76.2023030809'
+    at V.v (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:15764)
+    at async V.extractUserExtension (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:12806)
+    at async te.u (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:19332)
+    at async te.x (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:20922)
+    at async te.h (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:18978)
+2023-03-09 10:11:12.719 [info] [127.0.0.1][6dd2a629][ExtensionHostConnection] The client has reconnected.
+2023-03-09 10:11:12.722 [info] [127.0.0.1][dd083e59][ManagementConnection] The client has reconnected.
