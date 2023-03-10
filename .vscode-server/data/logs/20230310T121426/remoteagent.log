@@ -1,0 +1,31 @@
+2023-03-10 12:14:26.743 [info] 
+
+
+
+
+2023-03-10 12:14:26.942 [info] Extension host agent started.
+2023-03-10 12:14:27.541 [info] [127.0.0.1][ebd332cb][ManagementConnection] New connection established.
+2023-03-10 12:14:27.559 [info] [127.0.0.1][a9c2e046][ExtensionHostConnection] New connection established.
+2023-03-10 12:14:32.875 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-10 12:14:36.430 [info] [127.0.0.1][a9c2e046][ExtensionHostConnection] <126> Launched Extension Host Process.
+2023-03-10 12:14:41.386 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2023-03-10 12:14:48.905 [info] Installing extension: ms-ceintl.vscode-language-pack-es
+2023-03-10 12:14:57.235 [info] Extension signature verification: ms-ceintl.vscode-language-pack-es. Verification status: Verified.
+2023-03-10 12:14:57.888 [info] Extracted extension to /home/tatiana/.vscode-server/extensions/.69fe67d7-0b28-4263-ae9d-9df875d77899: ms-ceintl.vscode-language-pack-es
+2023-03-10 12:14:58.175 [info] Rename failed because of EACCES: permission denied, rename '/home/tatiana/.vscode-server/extensions/.69fe67d7-0b28-4263-ae9d-9df875d77899' -> '/home/tatiana/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.76.2023030809'. Deleted from extracted location /home/tatiana/.vscode-server/extensions/.69fe67d7-0b28-4263-ae9d-9df875d77899
+2023-03-10 12:14:58.177 [error] Error while installing the extension: ms-ceintl.vscode-language-pack-es
+2023-03-10 12:14:58.180 [error] Failed to install extension. ms-ceintl.vscode-language-pack-es
+2023-03-10 12:14:58.181 [error] EACCES: EACCES: permission denied, rename '/home/tatiana/.vscode-server/extensions/.69fe67d7-0b28-4263-ae9d-9df875d77899' -> '/home/tatiana/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.76.2023030809'
+    at V.v (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:15764)
+    at async V.extractUserExtension (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:12806)
+    at async te.u (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:19332)
+    at async te.x (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:20922)
+    at async te.h (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:18978)
+2023-03-10 12:14:59.185 [error] EACCES: EACCES: permission denied, rename '/home/tatiana/.vscode-server/extensions/.69fe67d7-0b28-4263-ae9d-9df875d77899' -> '/home/tatiana/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.76.2023030809'
+    at V.v (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:15764)
+    at async V.extractUserExtension (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:12806)
+    at async te.u (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:19332)
+    at async te.x (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:20922)
+    at async te.h (/home/tatiana/.vscode-server/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/out/vs/server/node/server.main.js:150:18978)
+2023-03-10 12:33:19.391 [info] [127.0.0.1][a9c2e046][ExtensionHostConnection] <126> [0mGET /favicon.ico [33m404[0m 27.704 ms - 150[0m
+

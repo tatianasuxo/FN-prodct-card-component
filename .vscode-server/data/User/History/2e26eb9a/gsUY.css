@@ -1,0 +1,9 @@
+body
+{
+    display: flex;
+    height: 100vh;
+}
+
+.product.container{
+    width: 42%;
+}

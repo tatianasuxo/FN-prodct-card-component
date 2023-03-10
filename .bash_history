@@ -210,3 +210,15 @@ git branch
 git add .
 git branch
 git checkout master
+git add .
+git commit -m "mobile styles"
+git push origin styles
+git branch
+git checkout main
+git branch main
+git branch
+git checkout main
+git push origin styles
+git remote add origin https://github.com/tatianasuxo/FN-prodct-card-component.git
+git branch -M main
+git push -u origin main
